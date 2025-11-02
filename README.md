@@ -48,30 +48,22 @@ I'm a software engineer from Afghanistan and a full time Developer at DevOnDeman
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka&logoColor=231F20)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
-![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;<hr><hr>
 
 ### :link: &nbsp;Find me around the web...<hr>
-[![Linkedin](https://img.shields.io/badge/-NelofarZabi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nelofar-zabi-1a1066213/)
-[![Gmail](https://img.shields.io/badge/-NelofarZabi2000-c14438?style=flat&logo=Gmail&logoColor=white)](https://nelofarzabi2000@gmail.com)
-[![Facebook](https://img.shields.io/badge/-NelofarZabi-c13584?style=flat&labelColor=c13584&logo=facebook&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
-[![CodePen](https://img.shields.io/badge/-Nelofar2000-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/Nelofar2000)
-[![Instagram](https://img.shields.io/badge/-NelofarZabi-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.facebook.com/mahshid.zabi.1)
-[![Github](https://img.shields.io/badge/-NelofarZabi-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/Nelofarzabi)
-[![Twitter Badge](https://img.shields.io/badge/-NelofarZabi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NelofarZabi)](https://twitter.com/NelofarZabi)<hr><hr>
+[![Linkedin](https://img.shields.io/badge/-ShamsiaSadat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shamsia-mirsalimi-3bb240248/)
+[![Gmail](https://img.shields.io/badge/-ShamsiaSadat2000-c14438?style=flat&logo=Gmail&logoColor=white)](https://sadatshamsia2@gmail.com)
+[![Facebook](https://img.shields.io/badge/-ShamsiaSadat-c13584?style=flat&labelColor=c13584&logo=facebook&logoColor=white)](https://www.facebook.com/share/1A5ADGVrSP/)
+[![Github](https://img.shields.io/badge/-ShamsiaSadat-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/ShamsiaSadat)
+<hr><hr>
 
 
  
@@ -132,13 +124,13 @@ I'm a software engineer from Afghanistan and a full time Developer at DevOnDeman
 
 **🐱 My Github Data** 
 
-> 🏆 959 Contributions in the Year 2023
+> 🏆 959 Contributions in the Year 2025
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
 > 💼 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙
  > 
-> 📜 32 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  >     
