@@ -60,7 +60,7 @@ I'm a software engineer from Afghanistan and a full time Developer at DevOnDeman
 
 ### :link: &nbsp;Find me around the web...<hr>
 [![Linkedin](https://img.shields.io/badge/-ShamsiaSadat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shamsia-mirsalimi-3bb240248/)
-[![Gmail](https://img.shields.io/badge/-ShamsiaSadat2000-c14438?style=flat&logo=Gmail&logoColor=white)](https://sadatshamsia2@gmail.com)
+[![Gmail](https://img.shields.io/badge/-ShamsiaSadat-c14438?style=flat&logo=Gmail&logoColor=white)](https://sadatshamsia2@gmail.com)
 [![Facebook](https://img.shields.io/badge/-ShamsiaSadat-c13584?style=flat&labelColor=c13584&logo=facebook&logoColor=white)](https://www.facebook.com/share/1A5ADGVrSP/)
 [![Github](https://img.shields.io/badge/-ShamsiaSadat-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/ShamsiaSadat)
 <hr><hr>
